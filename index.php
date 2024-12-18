@@ -1,8 +1,7 @@
 <?php
 
 function main() {
- echo "Hello, GitHub!";
+ echo "salut , comment vous allez?";
 }
-
 main();
  ?> 
